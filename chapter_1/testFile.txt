@@ -1,0 +1,4 @@
+the is text file
+now i write the first line text
+now i write the second line text.
+now i write the thrid line text.
