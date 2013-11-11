@@ -1,0 +1,11 @@
+account log: 
+data... processed
+ignored: could not convert string to float: debits
+data... processed
+data... processed
+ignored: could not convert string to float: credits
+data... processed
+data... processed
+ignored: could not convert string to float: finance charge/late fees
+data... processed
+data... processed

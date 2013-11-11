@@ -1,0 +1,10 @@
+25
+debits
+21.64
+541.24
+credits
+-25
+-541.23
+finance charge/late fees
+7.30
+5
